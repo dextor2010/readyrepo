@@ -6,3 +6,6 @@ total 20
 -rw-r--r-- 1 derick derick 944 Oct 26 21:44 test.txt
 -rw-r--r-- 1 derick derick 343 Oct 26 21:44 verify.txt
 -rw-r--r-- 1 derick derick 366 Oct 26 06:26 vex.txt
+git pull origin <branch> --rebase
+Mr Ashu is in class
+Mrs Ashu Loves Mr Ashu
