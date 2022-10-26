@@ -1,0 +1,7 @@
+total 16
+-rw-r--r-- 1 derick derick   0 Oct 18 05:32 assemble.txt
+-rw-r--r-- 1 derick derick  29 Oct 26 06:42 README.md
+-rw-r--r-- 1 derick derick   9 Oct 20 03:41 sexiest.txt
+-rw-r--r-- 1 derick derick 921 Oct 26 06:40 test.txt
+-rw-r--r-- 1 derick derick   0 Oct 26 06:43 verify.txt
+-rw-r--r-- 1 derick derick 366 Oct 26 06:26 vex.txt
